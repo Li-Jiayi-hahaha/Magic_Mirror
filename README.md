@@ -4,6 +4,14 @@
 
 It's facial expression recognition is modified from [NVIDIA's Maxine AR SDK](https://github.com/NVIDIA/MAXINE-AR-SDK), and its character models are created using [MetaHuman Creator](https://metahuman.unrealengine.com/), animated in [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5).
 
+This repository only includes some C++ souce codes.
+
+The link to download the standalone application is below:
+https://drive.google.com/file/d/1ByrWAf4yFT-8sPiEUuR8Lsng8WpvPsGO/view?usp=sharing
+
+The whole frontend Unreal Engine project can be downloaded below:
+https://drive.google.com/file/d/11-MScPsGtXH7IFHSEe1vB_v-s6AjnheF/view?usp=share_link
+
 This project is open for downloading, modifying, extension, and sharing, as long as providing a link of this GitHub Repository at a reasonable position.
 <br>
 <br>
@@ -18,7 +26,7 @@ You can try the built standalone application if your computer meets the requirem
 *i.e. NVIDIA GeForce RTX 20XX and 30XX Series, Quadro RTX 3000, TITAN RTX, or higher (any NVIDIA GPUs with Tensor Cores) should all work. For detailed requirements, please check [NVIDIA/MAXINE-AR-SDK](https://github.com/NVIDIA/MAXINE-AR-SDK) and [Maxine | NVIDIA NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/maxine/collections/maxine)*
 
 The link to download the standalone application is below:
-https://drive.google.com/drive/folders/1l8qUJbLSyIRBieXk20-a8cCb9o-etNcI?usp=sharing
+https://drive.google.com/file/d/1ByrWAf4yFT-8sPiEUuR8Lsng8WpvPsGO/view?usp=sharing
 
 You can run it by simply click the MagicMirror.exe at the root directory.
 <br>
@@ -72,7 +80,7 @@ The frontend application is developed in Unreal Engine 5.1, with virtual charact
 While some C++ programs (shared in [frontend_unreal_engine](https://github.com/Li-Jiayi-hahaha/Magic_Mirror/tree/main/frontend_unreal_engine) folder) is used to receive real-time facial expression from the data pipe and update the variables accordingly, most of the User Interface logics are implemented in Blueprints, which are not included in this repository.
 
 The whole Unreal Engine project can be downloaded below:
-https://drive.google.com/drive/folders/1epzbwO2rx1hC-PpIFwHVhW5FjEyPKhMy?usp=sharing
+https://drive.google.com/file/d/11-MScPsGtXH7IFHSEe1vB_v-s6AjnheF/view?usp=share_link
 
 ## Add custom the character
 
