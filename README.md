@@ -57,7 +57,7 @@ If you want to modify the backend program and re-compile it. Please follow the s
 
 **1, download the [NVIDIA's Maxine AR SDK](https://github.com/NVIDIA/MAXINE-AR-SDK), re-compile and run it by following their instructions.**
 
-To run their built executions, you may follow the instructions in this video: [How To Install Eye Contact AI | NVIDIA MAXINE | Gaze Redirect - YouTube](https://www.youtube.com/watch?v=LqiFEhnnA9I&list=PLNBwQu8YkHiM2iMLYaG7Y4zm_fys4WzHI&index=41)
+To run their built executions, you may follow the instructions in this video: [How To Install Eye Contact AI | NVIDIA MAXINE | Gaze Redirect - YouTube](https://www.youtube.com/watch?v=LqiFEhnnA9I&list=PLNBwQu8YkHiM2iMLYaG7Y4zm_fys4WzHI&index=41) <br>
 To re-compile their applications, I found this Chinese blog is quite detailed and helpful: [Nvidia Maxine 精讲 啥都会一点的老程-CSDN博客](https://blog.csdn.net/weixin_44119362/article/details/127242279)
 
 **2, Modify some files in the ExpressionApp**
