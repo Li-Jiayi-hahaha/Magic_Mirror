@@ -2,6 +2,10 @@
 
 **Magic Mirror** is an integrated application for real-time facial expression replication. 
 
+![Screenshot 1 of the Application](images/app_1.png)
+
+![Screenshot 2 of the Application](images/app_2.png)
+
 It's facial expression recognition is modified from [NVIDIA's Maxine AR SDK](https://github.com/NVIDIA/MAXINE-AR-SDK), and its character models are created using [MetaHuman Creator](https://metahuman.unrealengine.com/), animated in [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5).
 
 This repository only includes some C++ souce codes.
