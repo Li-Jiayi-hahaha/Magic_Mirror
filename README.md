@@ -6,11 +6,14 @@ It's facial expression recognition is modified from [NVIDIA's Maxine AR SDK](htt
 
 This repository only includes some C++ souce codes.
 
-The link to download the standalone application is below:
+The link to download the standalone application is below:<br>
 https://drive.google.com/file/d/1ByrWAf4yFT-8sPiEUuR8Lsng8WpvPsGO/view?usp=sharing
 
-The whole frontend Unreal Engine project can be downloaded below:
+The whole frontend Unreal Engine project can be downloaded below:<br>
 https://drive.google.com/file/d/11-MScPsGtXH7IFHSEe1vB_v-s6AjnheF/view?usp=share_link
+
+This is a video explains the applcation's functions and set up:<br>
+https://www.youtube.com/watch?v=JWd3xp-AXlE
 
 This project is open for downloading, modifying, extension, and sharing, as long as providing a link of this GitHub Repository at a reasonable position.
 <br>
